@@ -1,0 +1,1 @@
+pip install git+https://github.com/johnnynunez/detectron2.git@main
