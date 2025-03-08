@@ -1,0 +1,142 @@
+[
+  {
+    "id": "000000000294",
+    "image": "/scratch/jl9356/salience_llava/dataset/flickr_split/test/000000000294.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "a man in a kitchen\n\nThe man is standing in a kitchen with a frying pan on the wall."
+      }
+    ]
+  },
+  {
+    "id": "000000000450",
+    "image": "/scratch/jl9356/salience_llava/dataset/flickr_split/test/000000000450.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "the pizza is on a plate\n\nThe image features a pizza with a variety of toppings, including cheese, spinach, and tomatoes. The pizza is placed on a white plate, which is positioned on a dining table. The table also has a wine glass and a cup on it, indicating that the meal is being enjoyed with a beverage."
+      }
+    ]
+  },
+  {
+    "id": "000000001144",
+    "image": "/scratch/jl9356/salience_llava/dataset/flickr_split/test/000000001144.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "the table is grey\n\nThe image features a dining table with a plate of food and a wine glass. The food consists of a sandwich and a salad. The wine glass is filled with a dark liquid, possibly wine. The table is surrounded by chairs, with one chair on the left side, one on the right side, and another one at the back. There are also two people in the scene, one on the left side and the other on the right side of the"
+      }
+    ]
+  },
+  {
+    "id": "000000001271",
+    "image": "/scratch/jl9356/salience_llava/dataset/flickr_split/test/000000001271.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "a man kneeling down in a red shirt\n\nThe image depicts a group of men gathered in a kitchen, with one of them kneeling down and another holding a beer. The kitchen is equipped with a refrigerator, a sink, and an oven. The men appear to be engaged in a conversation or a shared activity, possibly a party or a social gathering."
+      }
+    ]
+  },
+  {
+    "id": "000000001667",
+    "image": "/scratch/jl9356/salience_llava/dataset/flickr_split/test/000000001667.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "the little girl is wearing a pink shirt."
+      }
+    ]
+  },
+  {
+    "id": "000000001756",
+    "image": "/scratch/jl9356/salience_llava/dataset/flickr_split/test/000000001756.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "the laptop is on the table\n\nThe image shows a large room filled with people sitting at tables. Each person has a laptop in front of them, and there are many chairs and tables throughout the room. The people appear to be working or studying, with some of them wearing name tags. The room is filled with various items, such as cups, handbags, and cell phones, indicating that the people are engaged in their activities."
+      }
+    ]
+  },
+  {
+    "id": "000000001804",
+    "image": "/scratch/jl9356/salience_llava/dataset/flickr_split/test/000000001804.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "a girl eating a donut\n\nThe two girls are kissing, and one of them is eating a donut."
+      }
+    ]
+  },
+  {
+    "id": "000000002179",
+    "image": "/scratch/jl9356/salience_llava/dataset/flickr_split/test/000000002179.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "the man is wearing a red shirt\n\nThe image shows a man in a red shirt riding a skateboard on a ramp. Another man is sitting on a chair nearby, watching the skateboarder. There are also two chairs and a dining table in the scene. The skateboarder is performing a trick, and the man sitting on the chair appears to be enjoying the show."
+      }
+    ]
+  },
+  {
+    "id": "000000002284",
+    "image": "/scratch/jl9356/salience_llava/dataset/flickr_split/test/000000002284.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "a white toilet in a bathroom\n\nThe bathroom is small and white."
+      }
+    ]
+  },
+  {
+    "id": "000000002477",
+    "image": "/scratch/jl9356/salience_llava/dataset/flickr_split/test/000000002477.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "a man working on a laptop\n\nThe man is sitting on a couch with a dog on his lap."
+      }
+    ]
+  }
+]

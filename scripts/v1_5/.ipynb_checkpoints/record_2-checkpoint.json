@@ -1,0 +1,142 @@
+[
+  {
+    "id": "000000000294",
+    "image": "/scratch/jl9356/salience_llava/dataset/split/test/000000000294.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "and st and \" and \" and st and green person person person and st and a white person person and A and A person bow \" \" \" \", a personige and A person stage a green objects image, a smallige out and a small out and a ted and, is people objects face. The background in objects objects objects, white a person building structure, a a person structure structure structure, in a stry object object. The background and surrounding objects objects, with the background and"
+      }
+    ]
+  },
+  {
+    "id": "000000000450",
+    "image": "/scratch/jl9356/salience_llava/dataset/split/test/000000000450.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": ", a a The white out and st and orange out, is a small people out and a A orange and is The or background and orange out and red orange orange orange orange image. The background is a street architect, with the individuals objects structure on a stness with cre, a round white a person objects object, likely a building and white outries. The background and background objects elements, with the background and background structure details details, adding a touch and, with objectsery \". The background"
+      }
+    ]
+  },
+  {
+    "id": "000000001144",
+    "image": "/scratch/jl9356/salience_llava/dataset/split/test/000000001144.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "a a A out and be people individuals individuals be be out and st and green background and green out and orange out image structure a street a person out and orange stries a red background and stured street building objects building building tree building, the backgroundery building building object object object with wooden background and building bowery \" setting, is objects objects objects objects objects, a street street building, is objects objects objects objects objects, a person bowured setting setting, adding a building structure setting setting. The"
+      }
+    ]
+  },
+  {
+    "id": "000000001271",
+    "image": "/scratch/jl9356/salience_llava/dataset/split/test/000000001271.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "and st and white st and st and st and be person person person person orange a smalled out and image image image and room building image image, the people people and out and blue structure image, be objects objects, white room and stured room objects. The background is a person street room room with various a building scene, with a white architect and background objects objects, a building cabinet structure, is a building structure, a building and background objects objects objects objects, a buildingery \"ery structure"
+      }
+    ]
+  },
+  {
+    "id": "000000001667",
+    "image": "/scratch/jl9356/salience_llava/dataset/split/test/000000001667.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "and st and st and person architect and person st and person people out and small people st and a small people person people outions. The background individuals tree tree, white out and green person individuals objects, back tree structure, touch with, person individuals individuals and brown items items structures. The background is a person person structure, with the background is the background and background."
+      }
+    ]
+  },
+  {
+    "id": "000000001756",
+    "image": "/scratch/jl9356/salience_llava/dataset/split/test/000000001756.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": ", small the small people be small or person out and small person st and a small person and small person and person a small out and green person person bow and blue sky image. The background is a person att with a blue green att, with a person structure and background on a person structure design. The person in objects, with the background is a back and background, is a central objects structure structure, a person and back, and building building, adds a back and a person structure bow, a"
+      }
+    ]
+  },
+  {
+    "id": "000000001804",
+    "image": "/scratch/jl9356/salience_llava/dataset/split/test/000000001804.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "with wooden st and st and st and body person and person person st and st and a A person and The The small person and person person a small out and a blue person black sky. The room is a street and white out, with the person structure on a st-, white a bow- and most a building structure space."
+      }
+    ]
+  },
+  {
+    "id": "000000002179",
+    "image": "/scratch/jl9356/salience_llava/dataset/split/test/000000002179.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "and wooden wooden st and be \" setting structure structure structure structure st and a white white white gar and a A person person person objects \" bag bag. The background is a white person sk, a person and green individuals objects, white pos with a person with brown att-, featuring a person st with a bowic. The background chair chair out and background, the person person and green objects objects, back, and a person bowved structure, a person and back and background with a person structure."
+      }
+    ]
+  },
+  {
+    "id": "000000002284",
+    "image": "/scratch/jl9356/salience_llava/dataset/split/test/000000002284.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "in a a The with with or out image image. The scene person a white white out and is a small a large architect and a person person \" \", a person and orange and small person objects objects, brown room and small objects objects, small a a person and a ted, a person stved structure. The room room in a wooden room with objects objects, with a person structure structure to a chair structure structure. The setting in the building, with the background structure and back with a person"
+      }
+    ]
+  },
+  {
+    "id": "000000002477",
+    "image": "/scratch/jl9356/salience_llava/dataset/split/test/000000002477.jpg",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Please describe the image in the order humans typically find most important, starting with the elements that are most salient, then moving on to the less prominent details."
+      },
+      {
+        "from": "gpt",
+        "value": "and a A and A or and small and A person A person person and small background and brown out and beige and be out and a white person and person and blue blue blue blue image and blue green orange orange out. A person bowry, a a white white seated object, bow, and presence and bowries structure, a person architect and background, a a a back and person structure, and a person structure on a wooden architect. The background in a building wall and, with with"
+      }
+    ]
+  }
+]
