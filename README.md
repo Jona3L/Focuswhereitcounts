@@ -28,8 +28,8 @@ All the required packages can be found in environment.yml. Some of them might ne
 - Evaluation: Run `FT_benchmark.py`
 
 ### Evaluation Metrics:
-- Please collect the converstaion json file
-- Get the final evaluation metrics by running `json_eval.py`
+- Please collect the conversation json file
+- Get the final evaluation results by running `json_eval.py`, make sure you change the `dir` to the path of the conversation json file you just collected as well as the GT provided by the dataset.
 
 ### Real World Experiment
 - coming soon
