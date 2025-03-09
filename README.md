@@ -1,7 +1,6 @@
 # Focus Where It Counts: A Salience-Driven Vision-Language Model for Low-Vision Assistance
 
 
-## Environment Configuration
 
 ## Create conda environment 
 - conda create --name sllava python=3.9
