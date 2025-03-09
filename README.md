@@ -1,4 +1,4 @@
-# Focuswehereitcounts
+# Focus Where It Counts: A Salience-Driven Vision-Language Model for Low-Vision Assistance
 
 # Project Setup
 
