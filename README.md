@@ -6,7 +6,7 @@
 
 1. Create conda environment:
 
-2. Install base repositories(Please install pytorch, detectron2, and other dependencis accordingly)
+2. Install base repositories(Please install pytorch, detectron2, and other dependencis accordingly) 
 
 
 
@@ -14,5 +14,5 @@
 Download dataset: [Dataset-Link-Here]
 
 ## Model Operations
-- Finetuning: Execute scripts in `/scripts/finetune/`
-- Evaluation: Run `evaluation.py`
+- Finetuning: Execute scripts in `/scripts/finetune/`(please select which version you would like to run)
+- Evaluation: Run `FT_benchmark.py`
