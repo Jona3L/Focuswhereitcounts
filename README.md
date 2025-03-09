@@ -33,3 +33,11 @@ All the required packages can be found in environment.yml. Some of them might ne
 
 ### Real World Experiment
 - coming soon
+
+
+## Citing Salience-LLAVA
+
+If you find the Salience dataset or Salience-LLAVA beneficial for your work, please consider citing our research:
+```
+Coming soon
+```
