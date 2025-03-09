@@ -7,6 +7,10 @@
 
 ## Dataset Access
 Download dataset: <a href="https://drive.google.com/file/d/13YiuT3m2K8EP31HJkA9Gmx26AGyBTqpO/view?usp=sharing" target="_blank">Dataset</a>
+### Example Image:
+![Example Image](images/datacomparison.jpg)
+
+
 
 ## Model Operations
 - Finetuning: Execute scripts in `/scripts/finetune/` (please set report to wandb if you would like to use it)
