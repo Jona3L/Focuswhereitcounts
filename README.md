@@ -3,8 +3,6 @@
 
 
 ## Create conda environment 
-- conda create --name sllava python=3.9
-- conda activate sllava
 - conda env create -f environment.yml
 
 ## Dataset Access
