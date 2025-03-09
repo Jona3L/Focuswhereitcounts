@@ -6,13 +6,19 @@
 
 1. Create conda environment:
 
-2. Install base repositories(Please install pytorch, detectron2, and other dependencis accordingly) 
-
-
+2. The required packages can be found in environment.yml
 
 ## Dataset Access
-Download dataset: [Dataset-Link-Here]
+Download dataset: <a href="https://drive.google.com/file/d/13YiuT3m2K8EP31HJkA9Gmx26AGyBTqpO/view?usp=sharing" target="_blank">Dataset</a>
 
 ## Model Operations
-- Finetuning: Execute scripts in `/scripts/finetune/`(please select which version you would like to run)
+- Finetuning: Execute scripts in `/scripts/finetune/` (please set report to wandb if you would like to use it)
 - Evaluation: Run `FT_benchmark.py`
+
+## Evaluation Metrics
+- Please collect the converstaion json file
+- Get the final evaluation metrics by running `json_eval.py`
+
+
+##Real World Experiment
+- coming soon
