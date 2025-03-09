@@ -3,6 +3,7 @@
 
 
 ## Create conda environment 
+All the required packages can be found in environment.yml. Some of them might need to be installed again manually just in case version issues arise.
 - conda env create -f environment.yml
 
 ## Dataset Access
@@ -10,6 +11,8 @@ Download dataset: <a href="https://drive.google.com/file/d/13YiuT3m2K8EP31HJkA9G
 ### Example Image:
 ![Example Image](images/datacomparison.jpg)
 
+In this paper we propose a salience-driven vision-language model for low-vision assistance known as Salience-LLAVA.
+![Example Image](images/pipeline.jpg)
 
 
 ## Model Operations
