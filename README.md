@@ -7,7 +7,7 @@ This is the code for the paper "Focus Where It Counts: A Salience-Driven Vision-
 To address the lack of salience information in existing datasets, we introduce three newly adapted datasets: Salience COCO, Salience Flickr, and Salience WizViz. All can be found in the following link:
 
 Download dataset: <a href="https://drive.google.com/file/d/13YiuT3m2K8EP31HJkA9Gmx26AGyBTqpO/view?usp=sharing" target="_blank">Dataset</a>
-### Example Image:
+### Example Data:
 ![Example Image](images/datacomparison.jpg)
 ### Dataset Statistics:
 ![Example Image](images/datadistribution.jpg)
