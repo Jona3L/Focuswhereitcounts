@@ -31,11 +31,11 @@ All the required packages can be found in environment.yml. Some of them might ne
 - Please collect the conversation json file
 - Get the final evaluation results by running `json_eval.py`, make sure you change the `dir` to the path of the conversation json file you just collected as well as the GT provided by the dataset.
 
-### Real World Experiment
+### Real World Experiment:
 - coming soon
 
 
-## Citing Salience-LLAVA
+## Citing Salience-LLAVA:
 
 If you find the Salience dataset or Salience-LLAVA beneficial for your work, please consider citing our research:
 ```
